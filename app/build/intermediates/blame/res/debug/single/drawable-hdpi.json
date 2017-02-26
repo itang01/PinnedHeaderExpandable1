@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_browser.png",
+        "source": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\src\\main\\res\\drawable-hdpi\\btn_browser.png"
+    },
+    {
+        "merged": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_browser2.png",
+        "source": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\src\\main\\res\\drawable-hdpi\\btn_browser2.png"
+    }
+]

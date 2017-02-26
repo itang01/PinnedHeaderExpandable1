@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child.xml",
+        "source": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group.xml",
+        "source": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\src\\main\\res\\layout\\group.xml"
+    },
+    {
+        "merged": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_head.xml",
+        "source": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\src\\main\\res\\layout\\group_head.xml"
+    },
+    {
+        "merged": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "F:\\android_dvp_ws\\PinnedHeaderExpandable1\\app\\src\\main\\res\\layout\\layout_main.xml"
+    }
+]
